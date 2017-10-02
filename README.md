@@ -1,10 +1,10 @@
 # chatBot
 
-This is an online chat room system where users can log it and have chats. This provides 2 types of chatting.
+This is an online chat room system where users can log in and have chats. This provides 2 types of chatting.
 1. Public: Anyone can join the group and have conversation
 2. Private: You require a password to join the group.
 
-The admin access control have the rights to manage the groups and the users.
+The admin access control has the rights to manage the groups and the users.
 
 Preview of this website is available over: https://chatbot-rayan.000webhostapp.com/
 Username: test

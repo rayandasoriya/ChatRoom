@@ -1,4 +1,4 @@
-# chatBot
+# chatRoom
 
 This is an online chat room system where users can log in and have chats. This provides 2 types of chatting.
 
